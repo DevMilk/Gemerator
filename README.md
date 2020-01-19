@@ -7,6 +7,11 @@ Autoencoder can be used to generate images like GAN, but it uses bottleneck of n
 
 Images resized to 30x30 shape. I used sigmoid function for bottleneck and linear function for other layers, also used "adamax" as optimizer and "mean squared error" for loss function which is suitable for image.
 
+If neuron count in bottleneck is low, generated images are more similiar to dimentionally reduced images of real gem images. If
+high then dimentionally reduced images are more similiar to real gem images but generated gem images contains more edges etc. so looks less pure.
+
+Generating images can be done by Variational Autoencoders and Generative Adversarial Neural Network. But autoencoders can be used for noise reduction for images, deepfakes, dimensional reduction and also for calculating difference between trained features and given input image.
+
 ------------------------------
 
 Training loss plot:
@@ -51,91 +56,177 @@ Generated images when featuresize is 15:
 Gem Image data acquired from: https://www.kaggle.com/lsind18/gemstones-images
 
 It contains 87 gem types:
+
 Alexandrite
+
 Almandine
+
 Amazonite
+
 Amber
+
 Amethyst
+
 Ametrine
+
 Andalusite
+
 Andradite
+
 Aquamarine
+
 Aventurine
+
 Aventurine Green
+
 Benitoite
+
 Beryl Golden
+
 Beryl Red
+
 Bloodstone
+
 Blue Lace Agate
+
 Carnelian
+
 Cats Eye
+
 Chalcedony
+
 Chalcedony Blue
+
 Chrome Diopside
+
 Chrysoberyl
+
 Chrysocolla
+
 Chrysoprase
+
 Citrine
-Command Prompt.lnk
+
 Coral
+
 Danburite
+
 Diamond
+
 Diaspore
+
 Dumortierite
+
 Emerald
+
 Fluorite
+
 Garnet Red
+
 Goshenite
+
 Grossular
+
 Hessonite
+
 Hiddenite
+
 Iolite
+
 Jade
+
 Jasper
+
 Kunzite
+
 Kyanite
+
 Labradorite
+
 Lapis Lazuli
+
 Larimar
+
 Malachite
+
 Moonstone
+
 Morganite
+
 Onyx Black
+
 Onyx Green
+
 Onyx Red
+
 Opal
+
 Pearl
+
 Peridot
+
 Prehnite
+
 Pyrite
+
 Pyrope
+
 Quartz Beer
+
 Quartz Lemon
+
 Quartz Rose
+
 Quartz Rutilated
+
 Quartz Smoky
+
 Rhodochrosite
+
 Rhodolite
+
 Rhodonite
+
 Ruby
+
 Sapphire Blue
+
 Sapphire Pink
+
 Sapphire Purple
+
 Sapphire Yellow
+
 Scapolite
+
 Serpentine
+
 Sodalite
+
 Spessartite
+
 Sphene
+
 Spinel
+
 Spodumene
+
 Sunstone
+
 Tanzanite
+
 Tigers Eye
+
 Topaz
+
 Tourmaline
+
 Tsavorite
+
 Turquoise
+
 Variscite
+
 Zircon
+
 Zoisite
