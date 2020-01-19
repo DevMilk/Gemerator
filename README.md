@@ -41,9 +41,11 @@ Compare of test image and compressed image of test image when featureSize is 15:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15compare.png)
 
 
-Generated images when f(https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.png)eaturesize is 15:
-![alt text]
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160VER2.png)
+Generated images when featuresize is 15:
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.png)
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER2.png)
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER3.png)
+
 
 
 Gem Image data acquired from: https://www.kaggle.com/lsind18/gemstones-images
