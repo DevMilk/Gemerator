@@ -15,6 +15,7 @@ Training loss plot:
 Feature size is neuron count in the bottleneck layer aka PCA result
 
 Generated images when featureSize parameter is 10:
+
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature10sigmoidloss0.0176.png)
 
 Generated images when featureSize parameter is 30:
@@ -22,11 +23,14 @@ Generated images when featureSize parameter is 30:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature30sigmoidloss0.0126.png)
 
 
-Generated images when autoencoder trained with only Amethysts
+Generated images when autoencoder trained with only Amethysts:
+
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature5OnlyAmethyst.png)
 
 Compare of test image and compressed image of test image when featureSize is 15:
+
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15compare.png)
 
 Generated images when featuresize is 15:
+
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER2.png)
