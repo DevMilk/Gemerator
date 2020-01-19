@@ -12,6 +12,11 @@ high then dimentionally reduced images are more similiar to real gem images but 
 
 Generating images can be done by Variational Autoencoders and Generative Adversarial Neural Network. But autoencoders can be used for noise reduction for images, deepfakes, dimensional reduction and also for calculating difference between trained features and given input image.
 
+Other Solutions to improve model: 
+
+1.Generating Generator inputs based on all gem images' color distribution
+2. Using convolution, flattening and upsampling in keras model
+
 ------------------------------
 
 Training loss plot:
