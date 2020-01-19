@@ -41,6 +41,99 @@ Compare of test image and compressed image of test image when featureSize is 15:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15compare.png)
 
 
-Generated images when featuresize is 15:
+Generated images when f(https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.png)eaturesize is 15:
+![alt text]
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160VER2.png)
 
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER2.png)
+
+Gem Image data acquired from: https://www.kaggle.com/lsind18/gemstones-images
+
+It contains 87 gem types:
+Alexandrite
+Almandine
+Amazonite
+Amber
+Amethyst
+Ametrine
+Andalusite
+Andradite
+Aquamarine
+Aventurine
+Aventurine Green
+Benitoite
+Beryl Golden
+Beryl Red
+Bloodstone
+Blue Lace Agate
+Carnelian
+Cats Eye
+Chalcedony
+Chalcedony Blue
+Chrome Diopside
+Chrysoberyl
+Chrysocolla
+Chrysoprase
+Citrine
+Command Prompt.lnk
+Coral
+Danburite
+Diamond
+Diaspore
+Dumortierite
+Emerald
+Fluorite
+Garnet Red
+Goshenite
+Grossular
+Hessonite
+Hiddenite
+Iolite
+Jade
+Jasper
+Kunzite
+Kyanite
+Labradorite
+Lapis Lazuli
+Larimar
+Malachite
+Moonstone
+Morganite
+Onyx Black
+Onyx Green
+Onyx Red
+Opal
+Pearl
+Peridot
+Prehnite
+Pyrite
+Pyrope
+Quartz Beer
+Quartz Lemon
+Quartz Rose
+Quartz Rutilated
+Quartz Smoky
+Rhodochrosite
+Rhodolite
+Rhodonite
+Ruby
+Sapphire Blue
+Sapphire Pink
+Sapphire Purple
+Sapphire Yellow
+Scapolite
+Serpentine
+Sodalite
+Spessartite
+Sphene
+Spinel
+Spodumene
+Sunstone
+Tanzanite
+Tigers Eye
+Topaz
+Tourmaline
+Tsavorite
+Turquoise
+Variscite
+Zircon
+Zoisite
