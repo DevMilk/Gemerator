@@ -18,7 +18,6 @@ curr_path=os.path.dirname(__file__)
 #%% Data receive functions
 
 def getData(pathd,shape):
-    #file i/o çalışılmalı
     os.chdir(pathd)
     Alldatas=[]
     img_data=[]
@@ -30,7 +29,6 @@ def getData(pathd,shape):
             img=load_img(image)
             img=img.resize((shape[0],shape[1]))
             x=img_to_array(img)
-           # x=x.reshape((1,) + x.shape)
             Alldatas.append(x)
     return Alldatas
 SCALE=30 #RESIZE ALL IMAGES TO 30X30
