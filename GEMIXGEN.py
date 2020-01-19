@@ -87,7 +87,6 @@ model.fit(train,
          # callbacks=callbacklists, #SET ACTIVE IF YOU WANT TO SAVE WEIGHTS
           verbose=1)
 
-#Minimum loss is 0.0130
 #%% Check difference between test images
 
 check=test[3]
