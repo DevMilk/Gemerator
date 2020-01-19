@@ -14,7 +14,8 @@ Generating images can be done by Variational Autoencoders and Generative Adversa
 
 Other Solutions to improve model: 
 
-1.Generating Generator inputs based on all gem images' color distribution
+1. Generating Generator inputs based on all gem images' color distribution
+
 2. Using convolution, flattening and upsampling in keras model
 
 ------------------------------
