@@ -58,7 +58,7 @@ Generated images when featuresize is 15:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER3.png)
 
 ------
-Used custom function for mapping output layer values between -0.5 and 0.5Ç
+Used custom function for mapping output layer values between -0.5 and 0.5:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/New.png)
 
 Gem Image data acquired from: https://www.kaggle.com/lsind18/gemstones-images
