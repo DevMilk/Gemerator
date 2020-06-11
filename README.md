@@ -20,11 +20,7 @@ Other Solutions to improve model:
 
 
 EXPERIMENTS
-------------------------------
-
-Training loss plot:
-
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/HistoryPlot.png)
+ 
 
 ------------------------------
 
@@ -55,15 +51,11 @@ Compare of test image and compressed image of test image when featureSize is 15:
 
 
 Generated images when featuresize is 15:
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.png)
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER2.png)
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0160.pngVER3.png)
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0137.png)
+ 
+ 
 
-------
-Used custom function for mapping output layer values between -0.5 and 0.5 when featureSize is 15:
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/New.png)
-
-Gem Image data acquired from: https://www.kaggle.com/lsind18/gemstones-images
+Gem Image data taken from: https://www.kaggle.com/lsind18/gemstones-images
 
 It contains 87 gem types:
 
