@@ -53,9 +53,6 @@ Compare of test image and compressed image of test image when featureSize is 15:
 Generated images when featuresize is 15:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0137.png)
  
- 
-
-Gem Image data taken from: https://www.kaggle.com/lsind18/gemstones-images
 
 It contains 87 gem types:
 
