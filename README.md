@@ -4,11 +4,7 @@ Gemixture is an autoencoder based mixed gem image generator, it trained with 87 
 An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner.The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
 
 Autoencoder can be used to generate images like GAN, but it uses bottleneck of neural network model to generate new images.
-
-Images resized to 30x30 shape. I used sigmoid function for bottleneck and linear function for other layers, also used "adamax" as optimizer and "mean squared error" for loss function which is suitable for image.
-
-If neuron count in bottleneck is low, generated images are more similiar to dimentionally reduced images of real gem images. If
-high then dimentionally reduced images are more similiar to real gem images but generated gem images contains more edges etc. so looks less pure.
+ 
 
 Generating images can be done by Variational Autoencoders and Generative Adversarial Neural Network. But autoencoders can be used for noise reduction for images, deepfakes, dimensional reduction and also for calculating difference between trained features and given input image.
 
@@ -18,7 +14,7 @@ Other Solutions to improve model:
 
 2. Using convolution, flattening and upsampling in keras model
 
-
+A website about that project is under development.
 EXPERIMENTS
  
 
