@@ -46,8 +46,8 @@ Compare of test image and compressed image of test image when featureSize is 15:
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15compare.png)
 
 
-Generated images when featuresize is 15:
-![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/feature15sigmoidloss0.0137.png)
+Last:
+![alt text](https://github.com/DevMilk/Gemixture/blob/master/Generated/last.png)
  
 
 It contains 87 gem types:
