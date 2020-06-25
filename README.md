@@ -1,7 +1,7 @@
 ## Gemixture
 ---
 
-# UPDATE: 
+# UPDATE (25/06/2020): 
 ---
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/gemeratorwebsite.PNG)
 
