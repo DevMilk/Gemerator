@@ -2,8 +2,10 @@
 
 
 UPDATE: 
+
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/gemeratorwebsite.PNG)
-https://gemerator.pythonanywhere.com/
+
+<p style="text-align: center;">https://gemerator.pythonanywhere.com/</p>
 
 I developed a Flask Web Service and a Django Website and deployed them using Google Cloud App Engine and PythonAnywhere, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
 
