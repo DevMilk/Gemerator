@@ -1,7 +1,7 @@
-## Gemerator
+# Gemerator
 ---
 
-# UPDATE (25/06/2020): 
+## UPDATE (25/06/2020): 
 ---
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/gemeratorwebsite.PNG)
 
@@ -14,7 +14,7 @@ I developed a <b >Flask Web Service</b> and a <b>Django Website</b> and deployed
 </br>
 
 ---
-# What is Gemerator?
+## What is Gemerator?
 
 Gemerator is an autoencoder based mixed gem image generator, it trained with 87 different gem types, 2800 gem image and tested with 364 gem image.
 
