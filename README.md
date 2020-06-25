@@ -1,4 +1,4 @@
-## Gemixture
+## Gemerator
 ---
 
 # UPDATE (25/06/2020): 
@@ -14,9 +14,9 @@ I developed a <b >Flask Web Service</b> and a <b>Django</b> Website and deployed
 </br>
 
 ---
-# What is Gemixture?
+# What is Gemerator?
 
-Gemixture is an autoencoder based mixed gem image generator, it trained with 87 different gem types, 2800 gem image and tested with 364 gem image.
+Gemerator is an autoencoder based mixed gem image generator, it trained with 87 different gem types, 2800 gem image and tested with 364 gem image.
 
 An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner.The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore signal “noise”.
 
