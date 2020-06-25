@@ -1,8 +1,8 @@
 ## Gemixture
+---
 
-
-#UPDATE: 
-
+# UPDATE: 
+---
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/gemeratorwebsite.PNG)
 
 
@@ -11,8 +11,8 @@
 
 I developed a Flask Web Service and a Django Website and deployed them using Google Cloud App Engine and PythonAnywhere, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
 
-
-#What is Gemixture?
+---
+# What is Gemixture?
 
 Gemixture is an autoencoder based mixed gem image generator, it trained with 87 different gem types, 2800 gem image and tested with 364 gem image.
 
