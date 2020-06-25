@@ -10,7 +10,10 @@
 
 
 I developed a Flask Web Service and a Django Website and deployed them using Google Cloud App Engine and PythonAnywhere, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
-
+\n
+\n
+\n
+\n
 ---
 # What is Gemixture?
 
