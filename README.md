@@ -9,7 +9,7 @@
 <p style="text-align: center;"><b>https://gemerator.pythonanywhere.com/</b></p>
 
 
-I developed a Flask Web Service and a Django Website and deployed them using Google Cloud App Engine and PythonAnywhere, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
+I developed a <b style="color: red">Flask Web Service</b> and a Django Website and deployed them using Google Cloud App Engine and PythonAnywhere, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
 <br>
 </br>
 
