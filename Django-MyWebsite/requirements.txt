@@ -1,0 +1,4 @@
+Django==2.2.10
+eventlet==0.25.2
+whitenoise
+requests==2.23.0  

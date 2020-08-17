@@ -1,0 +1,87 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - GEMIX</title>
+    <link rel="stylesheet" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:700">
+    <link rel="stylesheet" href="{% static 'assets/fonts/font-awesome.min.css' %}">
+</head>
+
+<body id="page-top">
+    <nav class="navbar navbar-light navbar-expand-md navbar navbar-expand-lg fixed-top" id="mainNav" style="background-color: rgba(57,57,57,0.68);">
+        <div class="container"><a class="navbar-brand js-scroll-trigger" href="#">DevMILK</a><button data-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"
+                value="Menu"><i class="fa fa-bars"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link active js-scroll-trigger" href="#generate">GENERATE</a></li>
+                    <li class="nav-item nav-link js-scroll-trigger" role="presentation"><a class="nav-link js-scroll-trigger" href="#about">about</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header   class="masthead" style="background-image: url('{% static  'assets/img/XYJftT.jpg' %}');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <h1 class="brand-heading" style="filter: blur(0px);color: rgb(255,255,255);background-color: rgba(51,51,51,0.49);">GEMerator</h1>
+                        <p class="intro-text" style="background-color: rgba(55,55,55,0.48);">Low Resolution Combined Gemstone Image Generator&nbsp;</p><a class="btn btn-link btn-circle" role="button" href="#about"><i class="fa fa-angle-double-down animated"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section style="height: 300px;">
+                    </section>
+    <section id="generate" class="content-section text-center" style="padding-bottom: 5px; padding-top:5px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <section  class="content-section text-center" style="padding-bottom: 10px; padding-top: 10px; background-color: white;">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-8 mx-auto" style="margin-top: 20px;">
+                                    <h2 style="color: black;">Newly Generated Gem Images :   &nbsp;</h2>
+
+
+                                    <img  id ="gems" src="data:image/png;base64,{{  API.getImages }} " style="width: inherit;" >
+                                    <img  id ="GANgems" src="data:image/png;base64,{{  API2.getImages }} " style="width: inherit;" >
+
+                                    <ul class="list-inline banner-social-buttons"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section style="height: 300px;">
+                    </section>
+                    <section id="about" style=" padding: 50px; background-image:url(' {% static  'assets/img/downloads-bg.jpg' %}');">
+	                    <h2 style="margin: 10px;margin-top: 40px;">About gEMERATOR</h2>
+	                    <p>Gemerator is a Low Resolution Combined Gemstone Image Generator AI.<br>&nbsp;It generates a new pack of mixstones every time you refresh this page. <br>Just Press F5 to make ai generate new mixstones.&nbsp;<br><br></p>
+	                    <p>It uses 2 different Deep Learning Methods to Generate a random gemstone, a mix of 87 different gemstone types .</p>
+	                    <p>I am currently &nbsp;developing that little project in my free times.</p>
+                	</section>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="map-clean"><iframe allowfullscreen="" frameborder="0"  width="100%" height="450"></iframe></div>
+    <footer>
+        <div class="container text-center">
+            <p>Copyright ©&nbsp;DevMilk 2020</p>
+        </div>
+    </footer>
+    <script   type="text/javascript" src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
+    <script   src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script   src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script   type="text/javascript" src="{% static 'assets/js/grayscale.js' %}"></script>
+    <!--<script   type="text/javascript" src="{% static 'assets/js/getImg.js' %}"></script>-->
+</body>
+
+</html>

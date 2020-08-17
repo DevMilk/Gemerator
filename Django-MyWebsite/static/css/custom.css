@@ -1,0 +1,22 @@
+.card-body{
+    padding: 1rem 1.25rem !important;
+}
+.card-body__top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.card-body__bottom{
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+
+
+.card-body__category{
+    display: block;
+}
