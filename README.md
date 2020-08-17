@@ -9,6 +9,14 @@
 <p style="text-align: center;"><b>https://gemerator.pythonanywhere.com/</b></p>
 
 
+-You can also use my API's to get generated images as a response:
+
+
+### API for generated mixed gem images with AutoEncoder: https://gemerrator.ey.r.appspot.com/generate
+
+
+### API for generated gem images with GAN: https://gemerrator.ey.r.appspot.com/GANgenerate                                                                                                   
+
 I developed a <b >Flask Web Service</b> and a <b>Django Website</b> and deployed them using <b>Google Cloud</b> and <b>PythonAnywhere</b>, every time you refresh the page, my deep autoencoder model generates 80 images of mixed Gemstones.
 <br>
 </br>
