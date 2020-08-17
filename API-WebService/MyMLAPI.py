@@ -103,12 +103,8 @@ def generateGems():
             print("Product: ",i*8+j) 
             new_Img=GEM_model.predict(random_features)
              
-            matrix.append( new_Img.reshape(SCALE,SCALE,3))
-             
-            filterr = np.array([[-1, -1, -1], [-1, 9, -1], [-1, -1, -1]])
-            im = pil.Image.fromarray(np.uint8(np.asarray(matrix[i*8+j])*255))   
-            mx = im.filter(pil.ImageFilter.EDGE_ENHANCE )     
-            plt.imshow(mx)
+            matrix.append( new_Img.reshape(SCALE,SCALE,3))   
+            plt.imshow(matrix[i*8+j])*255)
             plt.axis("off")
     plt.tight_layout( pad=0.0001) 
     print("Data Hazırlanıyor")
