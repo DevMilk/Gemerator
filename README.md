@@ -78,176 +78,176 @@ Last:
 
 It contains 87 gem types:
 
-Alexandrite
+* Alexandrite
 
-Almandine
+* Almandine
 
-Amazonite
+* Amazonite
 
-Amber
+* Amber
 
-Amethyst
+* Amethyst
 
-Ametrine
+* Ametrine
 
-Andalusite
+* Andalusite
 
-Andradite
+* Andradite
 
-Aquamarine
+* Aquamarine
 
-Aventurine
+* Aventurine
 
-Aventurine Green
+* Aventurine Green
 
-Benitoite
+* Benitoite
 
-Beryl Golden
+* Beryl Golden
 
-Beryl Red
+* Beryl Red
 
-Bloodstone
+* Bloodstone
 
-Blue Lace Agate
+* Blue Lace Agate
 
-Carnelian
+* Carnelian
 
-Cats Eye
+* Cats Eye
 
-Chalcedony
+* Chalcedony
 
-Chalcedony Blue
+* Chalcedony Blue
 
-Chrome Diopside
+* Chrome Diopside
 
-Chrysoberyl
+* Chrysoberyl
 
-Chrysocolla
+* Chrysocolla
 
-Chrysoprase
+* Chrysoprase
 
-Citrine
+* Citrine
 
-Coral
+* Coral
 
-Danburite
+* Danburite
 
-Diamond
+* Diamond
 
-Diaspore
+* Diaspore
 
-Dumortierite
+* Dumortierite
 
-Emerald
+* Emerald
 
-Fluorite
+* Fluorite
 
-Garnet Red
+* Garnet Red
 
-Goshenite
+* Goshenite
 
-Grossular
+* Grossular
 
-Hessonite
+* Hessonite
 
-Hiddenite
+* Hiddenite
 
-Iolite
+* Iolite
 
-Jade
+* Jade
 
-Jasper
+* Jasper
 
-Kunzite
+* Kunzite
 
-Kyanite
+* Kyanite
 
-Labradorite
+* Labradorite
 
-Lapis Lazuli
+* Lapis Lazuli
 
-Larimar
+* Larimar
 
-Malachite
+* Malachite
 
-Moonstone
+* Moonstone
 
-Morganite
+* Morganite
 
-Onyx Black
+* Onyx Black
 
-Onyx Green
+* Onyx Green
 
-Onyx Red
+* Onyx Red
 
-Opal
+* Opal
 
-Pearl
+* Pearl
 
-Peridot
+* Peridot
 
-Prehnite
+* Prehnite
 
-Pyrite
+* Pyrite
 
-Pyrope
+* Pyrope
 
-Quartz Beer
+* Quartz Beer
 
-Quartz Lemon
+* Quartz Lemon
 
-Quartz Rose
+* Quartz Rose
 
-Quartz Rutilated
+* Quartz Rutilated
 
-Quartz Smoky
+* Quartz Smoky
 
-Rhodochrosite
+* Rhodochrosite
 
-Rhodolite
+* Rhodolite
 
-Rhodonite
+* Rhodonite
 
-Ruby
+* Ruby
 
-Sapphire Blue
+* Sapphire Blue
 
-Sapphire Pink
+* Sapphire Pink
 
-Sapphire Purple
+* Sapphire Purple
 
-Sapphire Yellow
+* Sapphire Yellow
 
-Scapolite
+* Scapolite
 
-Serpentine
+* Serpentine
 
-Sodalite
+* Sodalite
 
-Spessartite
+* Spessartite
 
-Sphene
+* Sphene
 
-Spinel
+* Spinel
 
-Spodumene
+* Spodumene
 
-Sunstone
+* Sunstone
 
-Tanzanite
+* Tanzanite
 
-Tigers Eye
+* Tigers Eye
 
-Topaz
+* Topaz
 
-Tourmaline
+* Tourmaline
 
-Tsavorite
+* Tsavorite
 
-Turquoise
+* Turquoise
 
-Variscite
+* Variscite
 
-Zircon
+* Zircon
 
-Zoisite
+* Zoisite
