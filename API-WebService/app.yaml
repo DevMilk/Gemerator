@@ -1,0 +1,13 @@
+entrypoint: "gunicorn -b:$PORT main:app" 
+env: flex
+runtime: python
+runtime_config: 
+    python_version: 3.6
+automatic_scaling:
+    min_num_instances: 1
+    max_num_instances: 7    
+env_variables:
+    # The app will look for the model file at: gs://MODEL_BUCKET/MODEL_FILENAME
+    #  --timeout 30000 -w 3  
+    MODEL_BUCKET: gemerrator.appspot.com
+    MODEL_FILENAME: gemmodelv2.h5
