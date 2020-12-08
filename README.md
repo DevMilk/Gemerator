@@ -1,6 +1,10 @@
 # Gemerator
 ---
+## UPDATE (08/12/2020):
 
+My Google Cloud Credits are over so website cannot display images any more.
+
+---
 ## UPDATE (15/08/2020): 
 ---
 ![alt text](https://github.com/DevMilk/Gemixture/blob/master/gemeratorwebsite.PNG)
