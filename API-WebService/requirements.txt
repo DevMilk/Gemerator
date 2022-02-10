@@ -1,4 +1,4 @@
-tensorflow==2.0.0b0
+tensorflow==2.5.3
 numpy==1.18.5
 urllib3==1.25.9
 Keras==2.3.1 
